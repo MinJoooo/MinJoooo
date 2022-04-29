@@ -55,4 +55,17 @@ Our new model helped avoid concentration of chargers and distribute infrastructu
 Developed program to de-identify personal information of medical information <br>
 Created web page and put in program <br>
 
+<br>
+
+## Work Experiences
+
+#### Short-term Intern in Awasoft (Jun. 2020 – Aug. 2020)
+- Pest Detection Program Development Project
+- Learned various object recognition models to find model that fits the images
+
+#### Short-term Intern in Weclover (Jan. 2021 – Feb. 2021)
+- Developed AR program using Unity and C++
+- Tested program of applications
+
+
 
