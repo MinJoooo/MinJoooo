@@ -1,7 +1,7 @@
 ### 김민주
 
  - 이메일: dreamj21@naver.com
- - 블로그: https://ming-code.tistory.com/manage
+ - 블로그: https://ming-code.tistory.com
  - 깃허브: https://github.com/MinJoooo
 
 
