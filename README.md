@@ -8,8 +8,8 @@
 <br>
 
 ## Summary
-- 목표 직군: Data Scientist (데이터 사이언티스트)
-- 관심 분야: Financial (금융)
+- Want to be: Data Scientist
+- Interested in: Financial
 
 <br>
 
