@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm MinJoo!!
 
 - 🌱 I’m currently learning Data Science!
-- 👯 I’m looking to collaborate on Financial Data Analysis Projectt
+- 👯 I’m looking to collaborate on Financial Data Analysis Project
 - 📫 How to reach me: Instagram minjoo_luv
 - 😄 Please contact me! 
 
