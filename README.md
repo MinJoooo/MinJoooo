@@ -1,6 +1,6 @@
 ## Kim MinJoo
 
-- E-mail: dreamj21@naver.com
+- E-mail: arinkimxs2@gmail.com
 - Blog: https://ming-code.tistory.com
 - Github: https://github.com/MinJoooo
 - Instagram: minjoo_luv
