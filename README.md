@@ -1,4 +1,4 @@
-## Kim MinJoo
+## 김민주 / Kim MinJoo
 
 - E-mail: arinkimxs2@gmail.com
 - Blog: https://ming-code.tistory.com
@@ -7,9 +7,9 @@
 
 <br>
 
-## Summary
-- Want to be: Data Scientist
-- Interested in: Financial
+## 요약 / Summary
+- 희망직업: 데이터 분석가 (Data Scientist)
+- 관심분야: 금융 (Financial)
 
 <br>
 
