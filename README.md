@@ -1,9 +1,8 @@
 ## 김민주 / Kim MinJoo
 
-- E-mail: arinkimxs2@gmail.com
-- Blog: https://ming-code.tistory.com
-- Github: https://github.com/MinJoooo
-- Instagram: minjoo_luv
+- 이메일: arinkimxs2@gmail.com
+- 블로그: https://ming-code.tistory.com
+- 깃허브: https://github.com/MinJoooo
 
 <br>
 
