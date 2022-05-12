@@ -4,10 +4,11 @@
 - Blog: https://ming-code.tistory.com
 - Github: https://github.com/MinJoooo
 - Instagram: minjoo_luv
-
-#### Interested in
+<br>
+- Interested in
 Data Science / AI
-#### Things to study in the Future
+<br>
+- Things to study in the Future
 고급 통계 분석 알고리즘 공부 및 프로젝트 진행<br>
 Hadoop을 이용하여 대용량 데이터 분석<br>
 시각화 툴 활용<br>
