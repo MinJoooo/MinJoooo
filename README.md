@@ -8,8 +8,7 @@
 <br>
 
 ## 요약 / Summary
-- 희망직업: 데이터 분석가 (Data Scientist)
-- 관심분야: 금융 (Financial)
+- 관심분야: Data Science / AI
 
 <br>
 
