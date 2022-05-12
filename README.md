@@ -12,59 +12,58 @@
 
 <br>
 
-## Skill
-- 주 사용 언어 및 기술 <br>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br>
+## KSA 한국표준협회 데이터 사이언스 교육 수료
+2017.12.26.~2018.01.16.
+건강보험심사평가원의 의료데이터를 이용하여 통계 분석 (R, SAS)
+인공지능 모델을 학습시켜 ALL과 AML 백혈병을 분류하는 프로젝트 진행
+난소암 환자의 사망률에 유의한 영향을 끼치는 BRCA 유전자 돌연변이 분석 프로젝트 진행
 
-- 한 번 이상 사용한 언어 및 기술 <br>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396B.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+## SEN 학생클럽 사회적기업/도시재생 소모임 ‘청하: 청년 하이’ - 회장으로 활동
+2018.09.01~201912.31
+2018 원주 한살림(사회적기업) ‘사회적 경제 활성화 프로젝트’ 공모전 1등 (2018.11.27.)
+2019 용산 Y밸리 도시재생 주민 공모사업 최종선정 (정부주체 공모사업 수상) (2019.05.20.)
 
-<br>
+데이터 사이언스 멘토링 스터디 활동
+2019.03.01~2022.05
+핸즈온 머신러닝 등 데이터 사이언스 관련 도서 공부 후 발표
 
-## Project
-#### Pest Detection Program Development (May. 2020 – Nov. 2020)
-- Industry-academic cooperation with Awasoft <br>
-- Using Mask-RCNN model in Python <br>
-Labeled data of forest pest data <br>
-Trained using the labeled data <br>
-Validated of training results <br>
-Developed UI program using model <br>
+미국 Bloomfield College 소프트웨어 개발 단기 연수 (소프트웨어중심대학 해외파견교육 선발)
+2019.06.23.~2019.08.18.
+쇼핑몰 웹 페이지 개발 프로젝트 진행 (Javascript Angular, SQL, AWS)
 
-#### Shopping Mall Database Program Development (Sep. 2020 – Dec. 2020)
-- Project in ‘Industrial Data Management’ Class <br>
-- Using SQL and Python <br>
-Data crawled of G-market products data <br>
-Developed database and program that manages when registering or purchasing products <br>
+세일즈 마스터 코리아 아르바이트
+2019.09.20.~2022.04.30.
+대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 총괄 진행 (Python, Excel, PowerPoint)
 
-#### Develop Better Model than Previous Paper (Mar. 2021 – Jun. 2021)
-- Project in ‘Optimization in Artificial Intelligence’ Class <br>
-- Using Python <br>
-Solved the problems of papers using nonlinear models with AI learning algorithms <br>
-Modified and developed PSO algorithms and Genetic algorithms to find the wrong parts in the solution of the existing paper model and make the model better
+데이터융합 연구실 학부생 연구원 (조영래 교수님, 컴퓨터공학)
+2020.03.01~2020.06.30
+Bioinformatics 분야 논문 분석 및 시연 (Python, R, MATLAB)
 
-#### Development of EV Charging Station Selection Model (Mar. 2021 – Oct. 2021)
-- Project in ‘Deterministic Models in OR’ Class <br>
-- Using OPL and Python <br>
-Developed new model that can reflect the current status of EV chargers by referring to the set covering model <br>
-Our new model helped avoid concentration of chargers and distribute infrastructure <br>
+수업 튜터 진행 - 수업과 과제에 대한 질의응답 및 과제점수 미달 학생에 대한 수업 진행
+2020.03.01~2021.12.31
+(2020-1 공업수학1, 2020-2 알고리즘기초, 2021-1 데이터구조론, 2021-2 자바프로그래밍)
 
-#### De-identify Program Development (Jun. 2021 – Oct. 2021)
-- Industry-academic cooperation with Huraypositive <br>
-- Using ARX model in Java and Javascript <br>
-Developed program to de-identify personal information of medical information <br>
-Created web page and put in program <br>
+㈜아와소프트 산학공동프로젝트 + 단기인턴십 참여
+2020.03.01~202012.31 (단기인턴십: 2020.07.06.~2020.08.28.)
+딥러닝 컴퓨터비전 모델인 Mask-RCNN을 이용하여 산림 병해충 탐지 프로그램 개발 (Python)
 
-<br>
+㈜위클러버 단기인턴십
+2021.01.04.~2021.02.26.
+코딩 교육을 위한 VR/AR 게임 프로그램 개발 (C++, C#, Unity 프로그램)
 
-## Work Experiences
+SW중심대학 공동해커톤 참여
+2021.02.04.~2021.02.06.
+SNS 이용 중 사용자가 화면에 머무는 시간 데이터를 수집하여 분석 후 관심 데이터를 추천하는 프로그램 개발 (Python, AWS)
 
-#### Short-term Intern in Awasoft (Jun. 2020 – Aug. 2020)
-- Pest Detection Program Development Project
-- Learned various object recognition models to find model that fits the images
+㈜휴레이포지티브 산학공동프로젝트 참여
+2021.03.01~2021.12.31
+의료정보 개인정보 비식별화 프로그램 개발 (Java, JSP, AWS, ARX 프로그램)
 
-#### Short-term Intern in Weclover (Jan. 2021 – Feb. 2021)
-- Developed AR program using Unity and C++
-- Tested program of applications
+대한산업공학회 제17회 대학생 산업공학 프로젝트 경진대회 출품
+2021.03.~2021.09.
+기존 전기차 충전기 종류 및 입지를 고려한 초고속 충전기 추가 설치 입지 선정 (Python, OPL 프로그램)
 
-
-
+미국 뉴욕주립대 사이버 보안 단기 연수 (소프트웨어중심대학 해외파견교육 선발)
+2021.12.26.~2022.01.30.
+사이버 보안 집중 교육
+Exploit-database를 통해 공격코드와 취약점 분석 및 공격코드 시연 프로젝트 진행 (PHP, Ruby)
