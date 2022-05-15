@@ -20,6 +20,7 @@ GPA 4.07/4.30<br>
 #### Interested in
 - Data Science
 - Artificial Intelligence
+- Financial
 
 #### Things to study in the Future
 - 핸즈온머신러닝/혼공머신러닝 책 공부<br>
