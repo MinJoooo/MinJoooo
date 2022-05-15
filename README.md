@@ -22,9 +22,10 @@ GPA 4.07/4.30<br>
 - Artificial Intelligence
 
 #### Things to study in the Future
+- 핸즈온머신러닝/혼공머신러닝 책 공부<br>
 - 고급 통계 분석 알고리즘 공부 및 프로젝트 진행<br>
 - Hadoop을 이용하여 대용량 데이터 분석<br>
-- 시각화 툴 활용<br>
+- 시각화 툴을 활용한 프로젝트 진행<br>
 
 <br>
 
