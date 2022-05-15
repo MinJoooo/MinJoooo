@@ -52,11 +52,14 @@ Exploit-database를 통해 공격코드와 취약점 분석 및 공격코드 시
 
 ## Projects in Class
 
-#### -
-20.<br>
-
-
+#### C언어를 이용하여 자료구조 직접 구현
+2018.03.02.~2018.12.20. / 데이타구조론&화일처리론 (컴퓨터공학)<br>
+Trie, B-tree, Hashing with Chain, Sorting Binary 등의 자료구조 이해 및 직접 구현 (C언어)<br>
 <br>
+
+
+
+
 
 ## Work Experiences
 
