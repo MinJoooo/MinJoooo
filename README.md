@@ -1,7 +1,7 @@
 ## 김민주 / Kim MinJoo
 
-- E-mail: arinkimxs2@gmail.com
-- Blog: https://minjoooo.github.io/
+- E-mail: arinkimxs2@gmail.com  &  dreamj21@naver.com
+- Blog: https://minjoooo.github.io/  & https://minjoooo.tistory.com/
 - Github: https://github.com/MinJoooo
 
 <br>
