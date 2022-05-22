@@ -20,6 +20,7 @@ GPA 4.07/4.30<br>
 #### Interested in
 - Data Science
 - Artificial Intelligence
+- Quantitative Analyst
 - Financial
 
 #### Things to study in the Future
