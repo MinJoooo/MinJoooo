@@ -123,7 +123,7 @@ Trie, B-tree, Hashing with Chain, Sorting Binary 등의 자료구조 이해 및 
 <br>
 #### 세일즈마스터코리아 아르바이트
 2019.09.20.~2022.05.30.<br>
-대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 총괄 진행 (Python, Excel, PowerPoint)<br>
+대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 데이터  진행 (Python, Excel, PowerPoint)<br>
 <br>
 #### 달콤커피 연대호수점 아르바이트
 2017.10.23.~2018.12.21.<br>
