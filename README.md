@@ -3,7 +3,7 @@
 - **E-mail**: arinkimxs2@gmail.com  &  dreamj21@naver.com
 - **Blog**: https://minjoooo.tistory.com/
 - **Github**: https://github.com/MinJoooo
-- Interested in **Data Engineering**
+- Interested in **Data Engineering** / **Financial**
 
 <br>
 
