@@ -1,8 +1,9 @@
 ## 김민주 / Kim MinJoo
 
-- E-mail: arinkimxs2@gmail.com  &  dreamj21@naver.com
-- Blog: https://minjoooo.tistory.com/
-- Github: https://github.com/MinJoooo
+- **E-mail**: arinkimxs2@gmail.com  &  dreamj21@naver.com
+- **Blog**: https://minjoooo.tistory.com/
+- **Github**: https://github.com/MinJoooo
+- Interested in **Data Engineering** / **Financial**
 
 <br>
 
@@ -15,16 +16,16 @@ GPA 4.07/4.30<br>
 
 <br>
 
-## Summary
+## Work Experiences
 
-### Interested in
-- **Data Engineering**
-- **Financial**
+#### 부스터스 / 데이터 엔지니어 인턴
+2022.07.04.~현재진행중 (2개월)<br>
+데이터 플랫폼 개발 (Python, MySQL, GCP BigQuery, Tableau)<br>
+다른 부서의 니즈에 맞추어 업무 자동화 작업 및 필요한 데이터 제공 (Python, MySQL, GCP BigQuery, Tableau)<br>
 <br>
-### Things to study in the Future
-- 대용량 분산 시스템(Hadoop, Kafka, Spark 등) 활용<br>
-- Devops(k8s, argocd, ansible, git 등)에 대한 활용<br>
-- Hadoop-Ecosystem, Database, Data Warehouse에 대한 기본적인 이해<br>
+#### 세일즈마스터코리아 / 아르바이트
+2019.05.23.~2022.06.30. (3년)<br>
+대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 데이터 분석 진행 (Python, MySQL, Tableau, Excel, PowerPoint)<br>
 
 <br>
 
@@ -37,7 +38,7 @@ GPA 4.07/4.30<br>
 
 ## Projects
 
-#### 미국 뉴욕주립대 사이버 보안 단기 연수 (소프트웨어중심대학 해외파견교육 선발)
+#### 미국 뉴욕주립대 소프트웨어 개발 단기 연수 (소프트웨어중심대학 해외파견교육 선발)
 2021.12.26.~2022.01.30.<br>
 최신 사이버 보안 이슈 분석 및 사이버 보안 집중 교육<br>
 Exploit-database를 통해 공격코드와 취약점 분석 및 공격코드 시연 프로젝트 진행 (PHP, Ruby)<br>
@@ -98,26 +99,7 @@ beautifulsoup과 pymysql library를 사용하여 G마켓의 제품 데이터를 
 Trie, B-tree, Hashing with Chain, Sorting Binary 등의 자료구조 이해 및 직접 구현 (C언어)<br>
 <br>
 
-<br>
 
-## Work Experiences
-
-
-#### ㈜위클러버 단기인턴십
-2021.01.04.~2021.02.26.<br>
-코딩 교육을 위한 VR/AR 게임 프로그램 개발 (C++, C#, Unity 프로그램)<br>
-<br>
-#### ㈜아와소프트 단기인턴십
-2020.07.06.~2020.08.28.<br>
-딥러닝 컴퓨터비전 모델인 Mask R-CNN을 이용하여 산림 병해충 탐지 프로그램 개발 (Python)<br>
-<br>
-#### 세일즈마스터코리아 아르바이트
-2019.05.23.~2022.06.30.<br>
-대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 데이터 분석 진행 (Python, Excel, PowerPoint)<br>
-<br>
-#### 달콤커피 연대호수점 아르바이트
-2017.10.23.~2018.12.21.<br>
-음료 및 베이커리 제조, 매장 청소 등의 카페 업무 진행<br>
 
 <br>
 
@@ -137,12 +119,6 @@ SNS 이용 중 사용자가 화면에 머무는 시간 데이터를 수집하여
 Bioinformatics 분야 논문 분석 및 시연 (Python, R, MATLAB)<br>
 <br>
 #### 데이터 사이언스 멘토링 스터디 활동
-2019.03.01.~현재진행중(2022.05.)<br>
+2019.03.01.~현재진행중(2022.08.)<br>
 핸즈온 머신러닝 등 데이터 사이언스 관련 도서 공부 후 발표<br>
-<br>
-#### SEN 학생클럽 사회적기업/도시재생 소모임 ‘청하: 청년 하이’ 회장으로 활동
-2018.09.01.~2019.12.31.<br>
-2018 원주 한살림(사회적기업) ‘사회적 경제 활성화 프로젝트’ 공모전 1등 (2018.11.27.)<br>
-2019 용산 Y밸리 도시재생 주민 공모사업 최종선정 (정부주체 공모사업 수상) (2019.05.20.)<br>
-
 <br>
