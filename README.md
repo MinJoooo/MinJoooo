@@ -1,3 +1,6 @@
+
+<br>
+
 ## 김민주 / Kim MinJoo
 
 - **E-mail**: arinkimxs2@gmail.com  &  dreamj21@naver.com
@@ -32,10 +35,16 @@ GPA 4.07/4.30<br>
 
 <br>
 
-## Main Skills
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<br>
-<img alt="GCP" src ="https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=GCP&logoColor=white"/> <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white"/>
+## Skills
+
+### Certifications
+
+**TOEIC Speaking - 150점 (IH)** | 2022.05.08<br>
+**SQLD** | 2021.12.17<br>
+**정보처리기사** | 2021.08.20<br>
+
+### Main Skills
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="GCP" src ="https://img.shields.io/badge/GCP-4285F4.svg?&style=for-the-badge&logo=GCP&logoColor=white"/> <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white"/>
 
 <br>
 <br>
