@@ -18,25 +18,13 @@ GPA 4.07/4.30<br>
 ## Summary
 
 #### Interested in
-- Data Science
-- Artificial Intelligence
+- Data Engineering
 - Financial
 
 #### Things to study in the Future
-- 핸즈온머신러닝/혼공머신러닝 책을 통해 ML에 대한 개념 공부<br>
-- 대용량 데이터 처리를 위한 데이터 파이프라인(수집/처리/분석) 개발 경험<br>
-- 대용량 분산 시스템(Hadoop, Kafka, Spark 등) 활용 경험<br>
-- 데이터 어플리케이션 개발을 위한 소프트웨어 개발 역량(Java, Scala, Python 등)<br>
-- Devops(k8s, argocd, ansible, git 등)에 대한 경험<br>
-- 일반적인 방법으로 처리하기 힘든 대규모 데이터셋이나 비정형 데이터를 다루어 본 경험<br>
-- 복잡한 데이터 파이프라인을 잘 관리하기 위해 자동화나 모니터링 환경을 구성한 경험<br>
-- 데이터 기반 서비스를 개발해 본 경험<br>
+- 대용량 분산 시스템(Hadoop, Kafka, Spark 등) 활용<br>
+- Devops(k8s, argocd, ansible, git 등)에 대한 활용<br>
 - Hadoop-Ecosystem, Database, Data Warehouse에 대한 기본적인 이해<br>
-- 데이터마트를 주도적으로 설계, 구축하고 운영한 경험<br>
-- 복잡하거나 반복적인 문제를 데이터모델을 이용하여 단순화, 자동화하여 해결한 경험<br>
-- 다양한 시각화 도구를 활용하거나, 분석도구를 연동하여 분석 효율을 높인 경험<br>
-- Data Warehouse 를 설계하고 구성한 경험<br>
-- 데이터 중복이나 이상 값 처리와 같은 데이터 품질을 관리한 경험<br>
 
 <br>
 
