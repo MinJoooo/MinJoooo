@@ -22,7 +22,7 @@ GPA 4.07/4.30<br>
 ## Work Experiences
 
 #### 부스터스 / 데이터 엔지니어 인턴
-2022.07.04.~현재진행중 (2개월)<br>
+2022.07.04.~현재진행중<br>
 데이터 플랫폼 개발 (Python, MySQL, GCP BigQuery, Tableau)<br>
 다른 부서의 니즈에 맞추어 업무 자동화 작업 및 필요한 데이터 제공 (Python, MySQL, GCP BigQuery, Tableau)<br>
 <br>
