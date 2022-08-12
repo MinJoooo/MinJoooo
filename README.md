@@ -39,7 +39,7 @@ GPA 4.07/4.30<br>
 
 ### Certifications
 
-**TOEIC Speaking - 150점 (IH)** | 2022.05.08<br>
+**TOEIC Speaking 150점 (IH)** | 2022.05.08<br>
 **SQLD** | 2021.12.17<br>
 **정보처리기사** | 2021.08.20<br>
 
