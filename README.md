@@ -33,14 +33,16 @@ GPA 4.07/4.30<br>
 
 #### 부스터스　|　데이터 엔지니어 인턴
 **2022.07.04~현재진행중<br>**
-클라우드 서비스를 사용하여 ERP 도입을 위한 데이터 플랫폼 개발 (Python, SQL, AWS, GCP, Tableau)<br>
-다른 부서의 니즈에 맞추어 업무 자동화 작업 및 필요한 데이터 제공 (Python, SQL, AWS, GCP, Tableau)<br>
+클라우드 서비스를 사용하여 ERP 도입을 위한 데이터 플랫폼 개발<br>
+다른 부서의 니즈에 맞추어 업무 자동화 작업 및 필요한 데이터 제공<br>
+(Python, SQL, AWS, GCP, Tableau)<br>
 <br>
 
 #### 세일즈마스터코리아　|　아르바이트
 **2019.05.23~2022.06.30 (약 3년)<br>**
-역전할머니맥주 브랜드 고객 조사에서 전체 프로젝트 진행 (Python, MySQL, Tableau, Excel, PowerPoint)<br>
-대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 데이터 분석 진행 (Python, MySQL, Tableau, Excel, PowerPoint)<br>
+역전할머니맥주 브랜드 고객 조사에서 전체 프로젝트 진행<br>
+대웅제약, 더페이스샵, 파타고니아 등의 브랜드 미스터리쇼핑 데이터 관리 및 데이터 분석 진행<br>
+(Python, MySQL, Tableau, Excel, PowerPoint)<br>
 
 
 <br>
