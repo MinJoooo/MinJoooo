@@ -32,7 +32,7 @@ GPA 4.07/4.30<br>
 ## Work Experiences
 
 #### 부스터스　|　데이터 엔지니어 인턴
-**2022.07.04~현재진행중<br>**
+**2022.07.04~2022.11.04 (약 4개월)<br>**
 클라우드 서비스를 사용하여 ERP 도입을 위한 데이터 플랫폼 개발<br>
 다른 부서의 니즈에 맞추어 업무 자동화 작업 및 필요한 데이터 제공<br>
 (Python, SQL, AWS, GCP, Tableau)<br>
@@ -130,7 +130,7 @@ Trie, B-tree, Hashing with Chain, Sorting Binary 등의 자료구조 이해 및 
 
 ## Projects
 
-#### 미국 뉴욕주립대 소프트웨어 개발 단기 연수
+#### 미국 뉴욕주립대 소프트웨어 개발 단기 연수 (Albany, NY)
 2021.12.26~2022.01.30<br>
 최신 사이버 보안 이슈 분석 및 사이버 보안 집중 교육<br>
 Exploit-database를 통해 공격코드와 취약점 분석 및 공격코드 시연 프로젝트 진행 (PHP, Ruby)<br>
@@ -156,7 +156,7 @@ SNS 이용 중 사용자가 화면에 머무는 시간 데이터를 수집하여
 딥러닝 컴퓨터비전 모델인 Mask R-CNN을 이용하여 산림 병해충 탐지 프로그램 개발 (Python)<br>
 <br>
 
-#### 미국 Bloomfield College 소프트웨어 개발 단기 연수
+#### 미국 Bloomfield College 소프트웨어 개발 단기 연수 (New Jersey, NY)
 2019.06.23~2019.08.18<br>
 월스트리트(Moody's)의 IT 기술 트렌드 분석 및 소프트웨어 개발 집중 교육<br> 
 쇼핑몰 웹 페이지 개발 프로젝트 진행 (Javascript Angular, SQL, AWS)<br>
